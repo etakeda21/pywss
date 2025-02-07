@@ -1,0 +1,5 @@
+[project]
+name = "pywss"
+version = "0.1.0"
+description = "一个轻量级的 Python Web 框架，一站式集成 MCP SSE、StreamHTTP 和 MCPO 协议，助你轻松构建MCP Server🔥"
+requires-python = ">=3.10"
