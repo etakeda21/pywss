@@ -5,3 +5,4 @@ description = "一个轻量级的 Python Web 框架，一站式集成 MCP SSE、
 requires-python = ">=3.10"
 # drop an unused branch
 # match the style used in the rest of the module
+# handle the edge case from the last release
